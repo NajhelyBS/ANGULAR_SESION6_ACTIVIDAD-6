@@ -1,0 +1,14 @@
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #37517e;
+}
+
+contenedor {
+    text-align: center;
+    padding-bottom: 30px;
+}
