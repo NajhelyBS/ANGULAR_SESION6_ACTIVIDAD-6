@@ -1,0 +1,18 @@
+body {
+    background-color: tomato;
+    border-top: dashed rgb(255, 255, 255) 3px;
+}
+section {
+    background-image: url("https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 15px;
+    height: 30em;
+}
+h2 {
+    color: #DE3641;
+    text-shadow: 1px 3px 3px white;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 40px;
+}

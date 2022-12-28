@@ -1,0 +1,44 @@
+body {
+    border-top: dashed white 3px;
+    background-color: #3894c2ce;
+    height: 30em;
+}
+.card {
+    width: 16em;
+    height: 18em;
+}
+
+h1 {
+    color: #DE3641;
+    text-shadow: 1px 3px 3px white;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 40px;
+}
+#mes {
+    letter-spacing: 1.6px;
+}
+
+p {
+    font-size: 14px;  
+    color: gray;
+}
+
+#text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a{
+    width: 14em;
+    background-color: #2C30AB;
+    color: white;
+    font-weight: 800;
+    box-shadow: 0px 0px 3px 1px #049DE9;
+}
+
+.card {
+    background: #b92b27;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #1565C0, #b92b27); /* W3C, IE 10+/ Edge, Firefox 16+, Ch*/
+}

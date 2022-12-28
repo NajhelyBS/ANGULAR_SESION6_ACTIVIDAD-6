@@ -1,14 +1,28 @@
+section {
+    border-top: dashed white 3px;
+    background-color: #3894c2ce;
+}
 h2 {
+    text-shadow: 1px 3px 3px white;
     font-size: 32px;
-    font-weight: bold;
+    font-weight: 900;
     text-transform: uppercase;
-    margin-bottom: 20px;
-    padding-bottom: 20px;
     position: relative;
-    color: #37517e;
+    color: #DE3641;
 }
 
-contenedor {
-    text-align: center;
-    padding-bottom: 30px;
+#container {
+    margin: 35px;
+}
+
+#parrafo {
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+#card {
+    border: dashed #DE3641 2px;
+    box-shadow: 0px 0px 3px 2px white;
+
 }

@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { InicioComponent } from 'modulos/usuarios/inicio/inicio.component';
 import { UsuariosModule } from 'modulos/usuarios/usuarios.module';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -20,4 +21,5 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
